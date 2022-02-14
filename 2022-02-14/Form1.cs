@@ -17,5 +17,9 @@ namespace _2022_02_14
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
